@@ -6,8 +6,7 @@ Octopus v1.7 is an ai based internet browser in which user can gather informatio
 
 ## Screenshots
 
-### 1. IDEA Concept
-![IDEA Concept](Screenshots/IDEA%20Concept.jpg)
+
 
 ### 2. Title
 ![Title](Screenshots/Title.png)
@@ -38,3 +37,8 @@ Octopus v1.7 is an ai based internet browser in which user can gather informatio
 
 ### 11. Private Workspace
 ![Private Workspace](Screenshots/private%20workspace.png)
+
+
+
+### 1. IDEA Concept
+![IDEA Concept](Screenshots/IDEA%20Concept.jpg)
