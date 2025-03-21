@@ -1,31 +1,24 @@
 # Octopus-v1.7-Multi-Search-Ai-Browser
 Octopus v1.7 is an ai based internet browser in which user can gather information from multiple platforms in realtime parallely.
 
-[![Watch the video](https://img.youtube.com/vi/nlGrm84790Q/maxresdefault.jpg)](https://youtu.be/nlGrm84790Q?t=5)
+[![Watch the video]([https://img.youtube.com/vi/nlGrm84790Q/maxresdefault.jpg](https://i.pinimg.com/736x/b2/a6/d6/b2a6d6d31bdfa1b8b9914ebea38364ba.jpg))](https://youtu.be/nlGrm84790Q?t=5)
 
-### 1. IDEA Concept
+### 1. Firist idea Concept
 ![IDEA Concept](Screenshots/IDEA%20Concept.jpg)
 
+### 2. Project Model
+![Intro Banner](Screenshots/intro_banner.png)
 
 ## Application Screenshots
 
-
-
-### 2. Title
+### 3. Title
 ![Title](Screenshots/Title.png)
 
-### 3. UI Home
+### 4. UI Home
 ![UI Home](Screenshots/UI%20Home.png)
 
-### 4. Drag & Drop Notes from Websites
+### 5. Drag & Drop Notes maker from Websites
 ![Drag & Drop Notes](Screenshots/drag%20&%20drop%20notes%20from%20websites.png)
-
-
-
-
-
-### 5. Intro Banner
-![Intro Banner](Screenshots/intro_banner.png)
 
 ### 6. Layout Designer
 ![Layout Designer](Screenshots/layout%20designer.png)
