@@ -1,0 +1,7 @@
+name,url,geometry
+pdf drive,"https://www.pdfdrive.com/search?q={query}
+","-2,10,398,585"
+yt,https://www.youtube.com/results?search_query={query},"394,20,756,494"
+images,https://www.google.com/search?tbm=isch&q={query},"1149,10,390,382"
+google,https://www.google.com/search?q={query},"396,424,754,390"
+bing,https://www.bing.com/search?q={query},"1130,369,410,446"
