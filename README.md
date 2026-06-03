@@ -1,4 +1,4 @@
-# Octopus-v1.7-Multi-Search-Ai-Browser
+# Octopus-v1.7-Multi-Search-Agentic-Ai-Browser
 Octopus v1.7 is an ai based internet browser in which user can gather information from multiple platforms in realtime parallely.
 
 [![Watch the video]([https://img.youtube.com/vi/nlGrm84790Q/maxresdefault.jpg](https://i.pinimg.com/736x/b2/a6/d6/b2a6d6d31bdfa1b8b9914ebea38364ba.jpg))](https://youtu.be/nlGrm84790Q?t=5)
