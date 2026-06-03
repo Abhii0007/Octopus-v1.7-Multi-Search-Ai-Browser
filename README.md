@@ -1,7 +1,12 @@
 Development is in Progress...
 
 # Octopus-v1.7-Multi-Search-Agentic-Ai-Browser
-Octopus v1.7 is an ai based internet browser in which user can gather information from multiple platforms in realtime parallely.
+Octopus v1.7 is an agentic ai based internet browser built on top of langchain + Qt framework for local inference with modern interfaces,
+
+user can gather information from multiple platforms in realtime parallely. it automatically reason takes decision and uses tools based on user prompt.
+
+1. Local LLm model used for developmnt - Qwen 3:8B 5.2GB,
+2. Online Model for productions - Google Gemini Api (Google AI Studio)
 
 [![Watch the video]([https://img.youtube.com/vi/nlGrm84790Q/maxresdefault.jpg](https://i.pinimg.com/736x/b2/a6/d6/b2a6d6d31bdfa1b8b9914ebea38364ba.jpg))](https://youtu.be/nlGrm84790Q?t=5)
 
